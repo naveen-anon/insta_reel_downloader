@@ -35,7 +35,7 @@ Update Termux and install required packages:
 
 > - pkg update && pkg upgrade
 > - pkg install python git
-> - git clone > - https://github.com/naveen-anon/insta_reel_downloader.git
+> - git clone https://github.com/naveen-anon/insta_reel_downloader.git
 > - cd insta_reel_downloader
 > - pip install -r requirements.txt
 python insta_reel_tool.py
@@ -44,7 +44,7 @@ python insta_reel_tool.py
 
 
 
-### ⚠️> -  Disclaimer
+### ⚠️‼️ Disclaimer‼️
 
 This project is provided for educational and learning purposes only.
 
@@ -62,6 +62,6 @@ Please use this tool responsibly and ethically.
 
 ---
 
-### 👨‍💻 Author
+### 👨‍💻 Author 🧑🏻‍💻
 
 @naveen_anon
