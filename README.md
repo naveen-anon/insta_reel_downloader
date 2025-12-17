@@ -32,19 +32,19 @@ This project is designed so that **anyone can clone the repository and run it ea
 
 Update Termux and install required packages:
 
-```bash
-pkg update && pkg upgrade
-pkg install python git
-git clone https://github.com/naveen-anon/insta_reel_downloader.git
-cd insta_reel_downloader
-pip install -r requirements.txt
+
+> - pkg update && pkg upgrade
+> - pkg install python git
+> - git clone > - https://github.com/naveen-anon/insta_reel_downloader.git
+> - cd insta_reel_downloader
+> - pip install -r requirements.txt
 python insta_reel_tool.py
 
 
----
 
 
-⚠️ Disclaimer
+
+### ⚠️> -  Disclaimer
 
 This project is provided for educational and learning purposes only.
 
@@ -62,6 +62,6 @@ Please use this tool responsibly and ethically.
 
 ---
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 @naveen_anon
