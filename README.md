@@ -38,7 +38,7 @@ Update Termux and install required packages:
 > - git clone https://github.com/naveen-anon/insta_reel_downloader.git
 > - cd insta_reel_downloader
 > - pip install -r requirements.txt
-python insta_reel_tool.py
+python insta_reel_downloader.py
 
 
 
